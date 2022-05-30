@@ -12,7 +12,7 @@ I am learning to use the async/await asynchronous promised base behavior with ap
 
 ## Optimizations
 
-Need to sanitize some of the values that the api gives in order to better the voice actors of characters for a specific episode not all episodes they have done. I would also like to add local storage or use node.js in order to make the website more useful by storing the reponses.
+Need to sanitize some of the values that the api gives in order to better display the voice actors of characters for a specific episode not all episodes they have done. I would also like to add local storage or use node.js in order to make the website more useful by storing the reponses.
 
 ## Lessons Learned:
 
